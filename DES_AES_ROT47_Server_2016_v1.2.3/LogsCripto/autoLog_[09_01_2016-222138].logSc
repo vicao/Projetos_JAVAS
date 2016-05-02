@@ -1,0 +1,44 @@
+[09/01/2016 - 22:21][Metodo ServidorService]***INICIO***
+[09/01/2016 - 22:22][Metodo connect - ServidorService]INICIO
+[09/01/2016 - 22:22][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[09/01/2016 - 22:22][Metodo connect - ServidorService]tpCrypt : 2
+[09/01/2016 - 22:22][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@187e1
+[09/01/2016 - 22:22][ServidorService - Metodo send]***FIM***
+[09/01/2016 - 22:22][ServidorService - Metodo send]***FIM***
+[09/01/2016 - 22:22][Metodo connect - ServidorService]MapOnlines = 0
+[09/01/2016 - 22:22][Metodo connect - ServidorService]---FIM Maponlines -----
+[09/01/2016 - 22:22][ServidorService - Metodo sendOnlines]***INICIO****
+[09/01/2016 - 22:22][ServidorService - Metodo sendOnlines]***INICIO****
+[09/01/2016 - 22:22][Metodo connect - ServidorService]INICIO
+[09/01/2016 - 22:22][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines !=0. ChaveDES : com.sun.crypto.provider.DESKey@187e1
+[09/01/2016 - 22:22][ServidorService - Metodo send]***FIM***
+[09/01/2016 - 22:22][ServidorService - Metodo send]***FIM***
+[09/01/2016 - 22:22][ServidorService - Metodo connect[Else]]Message = YES
+[09/01/2016 - 22:22][ServidorService - Metodo connect[Else]]***FIM***
+[09/01/2016 - 22:22][ServidorService - Metodo sendOnlines]***INICIO****
+[09/01/2016 - 22:22][ServidorService - Metodo sendOnlines]***INICIO****
+[09/01/2016 - 22:23][ServidorService - Metodo sendAll]***INICIO***
+[09/01/2016 - 22:23][Metodo sendAll - ServidorService]***FIM***
+[09/01/2016 - 22:23][ServidorService - Metodo sendAll]***INICIO***
+[09/01/2016 - 22:23][Metodo sendAll - ServidorService]***FIM***
+[09/01/2016 - 22:23][ServidorService - Metodo send]***INICIO***
+[09/01/2016 - 22:23][ServidorService - Metodo send]***FIM***
+[09/01/2016 - 22:23][ServidorService - Metodo disconnect]INICIO
+[09/01/2016 - 22:23][ServidorService - Metodo sendAll]***INICIO***
+[09/01/2016 - 22:23][Metodo sendAll - ServidorService]***FIM***
+[09/01/2016 - 22:23][ServidorService - Metodo disconnect]O usurário Kratos sai da sala
+[09/01/2016 - 22:23][ServidorService - Metodo disconnect]***FIM**
+[09/01/2016 - 22:23][ServidorService - Metodo sendOnlines]***INICIO****
+[09/01/2016 - 22:23][ServidorService - Metodo sendOnlines]***INICIO****
+[09/01/2016 - 22:23][ServidorService - Metodo run - IOException]O usuário : Kratos deixou o chat.
+[09/01/2016 - 22:23][ServidorService - Metodo send]***INICIO***
+[09/01/2016 - 22:23][ServidorService - Metodo send]***FIM***
+[09/01/2016 - 22:23][ServidorService - Metodo disconnect]INICIO
+[09/01/2016 - 22:23][ServidorService - Metodo sendAll]***INICIO***
+[09/01/2016 - 22:23][Metodo sendAll - ServidorService]***FIM***
+[09/01/2016 - 22:23][ServidorService - Metodo disconnect]O usurário Ze sai da sala
+[09/01/2016 - 22:23][ServidorService - Metodo disconnect]***FIM**
+[09/01/2016 - 22:23][ServidorService - Metodo sendOnlines]***INICIO****
+[09/01/2016 - 22:23][ServidorService - Metodo sendOnlines]***INICIO****
+[09/01/2016 - 22:23][ServidorService - Metodo run - IOException]O usuário : Ze deixou o chat.
+

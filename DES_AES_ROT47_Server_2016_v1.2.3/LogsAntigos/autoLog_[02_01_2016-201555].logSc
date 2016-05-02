@@ -1,0 +1,34 @@
+[02/01/2016 - 20:15:56][Metodo ServidorService]***INICIO***
+[02/01/2016 - 20:17:33][Metodo connect - ServidorService]INICIO
+[02/01/2016 - 20:17:33][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[02/01/2016 - 20:17:33][Metodo connect - ServidorService]tpCrypt : 2
+[02/01/2016 - 20:17:33][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@1843e
+[02/01/2016 - 20:17:33][ServidorService - Metodo send]***FIM***
+[02/01/2016 - 20:17:33][ServidorService - Metodo send]***FIM***
+[02/01/2016 - 20:17:33][Metodo connect - ServidorService]MapOnlines = 0
+[02/01/2016 - 20:17:33][Metodo connect - ServidorService]---FIM Maponlines -----
+[02/01/2016 - 20:17:33][ServidorService - Metodo sendOnlines]***INICIO****
+[02/01/2016 - 20:17:33][ServidorService - Metodo sendOnlines]***INICIO****
+[02/01/2016 - 20:17:54][Metodo connect - ServidorService]INICIO
+[02/01/2016 - 20:17:54][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines !=0. ChaveDES : com.sun.crypto.provider.DESKey@1843e
+[02/01/2016 - 20:17:54][ServidorService - Metodo send]***FIM***
+[02/01/2016 - 20:17:54][ServidorService - Metodo send]***FIM***
+[02/01/2016 - 20:17:54][ServidorService - Metodo connect[Else]]Message = YES
+[02/01/2016 - 20:17:54][ServidorService - Metodo connect[Else]]***FIM***
+[02/01/2016 - 20:17:54][ServidorService - Metodo sendOnlines]***INICIO****
+[02/01/2016 - 20:17:54][ServidorService - Metodo sendOnlines]***INICIO****
+[02/01/2016 - 20:18:10][ServidorService - Metodo disconnect]INICIO
+[02/01/2016 - 20:18:10][ServidorService - Metodo sendAll]***INICIO***
+[02/01/2016 - 20:18:10][Metodo sendAll - ServidorService]***FIM***
+[02/01/2016 - 20:18:10][ServidorService - Metodo disconnect]O usurário Carro sai da sala
+[02/01/2016 - 20:18:10][ServidorService - Metodo disconnect]***FIM**
+[02/01/2016 - 20:18:10][ServidorService - Metodo sendOnlines]***INICIO****
+[02/01/2016 - 20:18:10][ServidorService - Metodo sendOnlines]***INICIO****
+[02/01/2016 - 20:18:32][ServidorService - Metodo disconnect]INICIO
+[02/01/2016 - 20:18:32][ServidorService - Metodo sendAll]***INICIO***
+[02/01/2016 - 20:18:32][Metodo sendAll - ServidorService]***FIM***
+[02/01/2016 - 20:18:32][ServidorService - Metodo disconnect]O usurário Cachorro sai da sala
+[02/01/2016 - 20:18:32][ServidorService - Metodo disconnect]***FIM**
+[02/01/2016 - 20:18:32][ServidorService - Metodo sendOnlines]***INICIO****
+[02/01/2016 - 20:18:32][ServidorService - Metodo sendOnlines]***INICIO****
+

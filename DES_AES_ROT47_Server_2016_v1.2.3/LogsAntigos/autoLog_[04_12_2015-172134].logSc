@@ -1,0 +1,34 @@
+[04/12/2015 - 17:21:35][Metodo ServidorService]***INICIO***
+[04/12/2015 - 17:21:55][Metodo connect - ServidorService]INICIO
+[04/12/2015 - 17:21:55][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[04/12/2015 - 17:21:55][Metodo connect - ServidorService]tpCrypt : 2
+[04/12/2015 - 17:21:56][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@fffe7b10
+[04/12/2015 - 17:21:56][ServidorService - Metodo send]***FIM***
+[04/12/2015 - 17:21:56][ServidorService - Metodo send]***FIM***
+[04/12/2015 - 17:21:56][Metodo connect - ServidorService]MapOnlines = 0
+[04/12/2015 - 17:21:56][Metodo connect - ServidorService]---FIM Maponlines -----
+[04/12/2015 - 17:21:56][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:21:56][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:26:27][Metodo connect - ServidorService]INICIO
+[04/12/2015 - 17:26:27][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines !=0. ChaveDES : chaveDES : com.sun.crypto.provider.DESKey@fffe7b10
+[04/12/2015 - 17:26:27][ServidorService - Metodo send]***FIM***
+[04/12/2015 - 17:26:27][ServidorService - Metodo send]***FIM***
+[04/12/2015 - 17:26:27][ServidorService - Metodo connect[Else]]Message = YES
+[04/12/2015 - 17:26:27][ServidorService - Metodo connect[Else]]***FIM***
+[04/12/2015 - 17:26:27][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:26:28][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:26:59][ServidorService - Metodo disconnect]INICIO
+[04/12/2015 - 17:26:59][ServidorService - Metodo sendAll]***INICIO***
+[04/12/2015 - 17:26:59][Metodo sendAll - ServidorService]***FIM***
+[04/12/2015 - 17:26:59][ServidorService - Metodo disconnect]O usurário null sai da sala
+[04/12/2015 - 17:26:59][ServidorService - Metodo disconnect]***FIM**
+[04/12/2015 - 17:26:59][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:26:59][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:27:06][ServidorService - Metodo disconnect]INICIO
+[04/12/2015 - 17:27:06][ServidorService - Metodo sendAll]***INICIO***
+[04/12/2015 - 17:27:06][Metodo sendAll - ServidorService]***FIM***
+[04/12/2015 - 17:27:06][ServidorService - Metodo disconnect]O usurário null sai da sala
+[04/12/2015 - 17:27:06][ServidorService - Metodo disconnect]***FIM**
+[04/12/2015 - 17:27:06][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:27:06][ServidorService - Metodo sendOnlines]***INICIO****
+

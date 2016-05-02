@@ -1,0 +1,19 @@
+[03/01/2016 - 10:44:49][Metodo ServidorService]***INICIO***
+[03/01/2016 - 10:45:18][Metodo connect - ServidorService]INICIO
+[03/01/2016 - 10:45:18][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[03/01/2016 - 10:45:18][Metodo connect - ServidorService]tpCrypt : 2
+[03/01/2016 - 10:45:19][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@fffe7e65
+[03/01/2016 - 10:45:19][ServidorService - Metodo send]***FIM***
+[03/01/2016 - 10:45:19][ServidorService - Metodo send]***FIM***
+[03/01/2016 - 10:45:19][Metodo connect - ServidorService]MapOnlines = 0
+[03/01/2016 - 10:45:19][Metodo connect - ServidorService]---FIM Maponlines -----
+[03/01/2016 - 10:45:19][ServidorService - Metodo sendOnlines]***INICIO****
+[03/01/2016 - 10:45:19][ServidorService - Metodo sendOnlines]***INICIO****
+[03/01/2016 - 10:45:49][ServidorService - Metodo disconnect]INICIO
+[03/01/2016 - 10:45:49][ServidorService - Metodo sendAll]***INICIO***
+[03/01/2016 - 10:45:49][Metodo sendAll - ServidorService]***FIM***
+[03/01/2016 - 10:45:49][ServidorService - Metodo disconnect]O usurário Kratos sai da sala
+[03/01/2016 - 10:45:49][ServidorService - Metodo disconnect]***FIM**
+[03/01/2016 - 10:45:49][ServidorService - Metodo sendOnlines]***INICIO****
+[03/01/2016 - 10:45:49][ServidorService - Metodo sendOnlines]***INICIO****
+

@@ -1,0 +1,61 @@
+[03/12/2015 - 21:24:13][Metodo ServidorService]***INICIO***
+[03/12/2015 - 21:26:11][Metodo connect - ServidorService]INICIO
+[03/12/2015 - 21:26:11][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[03/12/2015 - 21:26:11][Metodo connect - ServidorService]tpCrypt : 1
+[03/12/2015 - 21:26:11][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:26:11][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:26:11][Metodo connect - ServidorService]MapOnlines = 0
+[03/12/2015 - 21:26:11][Metodo connect - ServidorService]---FIM Maponlines -----
+[03/12/2015 - 21:26:11][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:26:11][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:30:05][Metodo connect - ServidorService]INICIO
+[03/12/2015 - 21:30:05][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:30:05][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:30:05][ServidorService - Metodo connect[Else]]Message = YES
+[03/12/2015 - 21:30:05][ServidorService - Metodo connect[Else]]***FIM***
+[03/12/2015 - 21:30:05][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:30:05][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:30:34][Metodo connect - ServidorService]INICIO
+[03/12/2015 - 21:30:34][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:30:34][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:30:34][ServidorService - Metodo connect[Else]]Message = YES
+[03/12/2015 - 21:30:34][ServidorService - Metodo connect[Else]]***FIM***
+[03/12/2015 - 21:30:34][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:30:34][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:30:43][ServidorService - Metodo sendAll]***INICIO***
+[03/12/2015 - 21:30:43][Metodo sendAll - ServidorService]***FIM***
+[03/12/2015 - 21:31:01][ServidorService - Metodo sendAll]***INICIO***
+[03/12/2015 - 21:31:01][Metodo sendAll - ServidorService]***FIM***
+[03/12/2015 - 21:31:09][ServidorService - Metodo sendAll]***INICIO***
+[03/12/2015 - 21:31:09][Metodo sendAll - ServidorService]***FIM***
+[03/12/2015 - 21:31:51][ServidorService - Metodo send]***INICIO***
+[03/12/2015 - 21:31:51][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:31:51][ServidorService - Metodo disconnect]INICIO
+[03/12/2015 - 21:31:51][ServidorService - Metodo sendAll]***INICIO***
+[03/12/2015 - 21:31:51][Metodo sendAll - ServidorService]***FIM***
+[03/12/2015 - 21:31:51][ServidorService - Metodo disconnect]O usurário teste sai da sala
+[03/12/2015 - 21:31:51][ServidorService - Metodo disconnect]***FIM**
+[03/12/2015 - 21:31:51][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:31:51][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:31:51][ServidorService - Metodo run - IOException]O usuário : teste deixou o chat.
+[03/12/2015 - 21:31:52][ServidorService - Metodo send]***INICIO***
+[03/12/2015 - 21:31:52][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:31:53][ServidorService - Metodo disconnect]INICIO
+[03/12/2015 - 21:31:53][ServidorService - Metodo sendAll]***INICIO***
+[03/12/2015 - 21:31:53][Metodo sendAll - ServidorService]***FIM***
+[03/12/2015 - 21:31:53][ServidorService - Metodo disconnect]O usurário kratos sai da sala
+[03/12/2015 - 21:31:53][ServidorService - Metodo disconnect]***FIM**
+[03/12/2015 - 21:31:53][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:31:53][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:31:53][ServidorService - Metodo run - IOException]O usuário : kratos deixou o chat.
+[03/12/2015 - 21:31:55][ServidorService - Metodo send]***INICIO***
+[03/12/2015 - 21:31:55][ServidorService - Metodo send]***FIM***
+[03/12/2015 - 21:31:56][ServidorService - Metodo disconnect]INICIO
+[03/12/2015 - 21:31:56][ServidorService - Metodo sendAll]***INICIO***
+[03/12/2015 - 21:31:56][Metodo sendAll - ServidorService]***FIM***
+[03/12/2015 - 21:31:56][ServidorService - Metodo disconnect]O usurário Teste sai da sala
+[03/12/2015 - 21:31:56][ServidorService - Metodo disconnect]***FIM**
+[03/12/2015 - 21:31:56][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:31:56][ServidorService - Metodo sendOnlines]***INICIO****
+[03/12/2015 - 21:31:56][ServidorService - Metodo run - IOException]O usuário : Teste deixou o chat.
+

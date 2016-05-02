@@ -1,0 +1,90 @@
+[17/01/2016 - 12:54][Metodo ServidorService]***INICIO***
+[17/01/2016 - 13:01][Metodo connect - ServidorService]INICIO
+[17/01/2016 - 13:01][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[17/01/2016 - 13:01][Metodo connect - ServidorService]tpCrypt : 2
+[17/01/2016 - 13:01][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@fffe7b1c
+[17/01/2016 - 13:01][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:01][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:01][Metodo connect - ServidorService]MapOnlines = 0
+[17/01/2016 - 13:01][Metodo connect - ServidorService]---FIM Maponlines -----
+[17/01/2016 - 13:01][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:01][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:02][Metodo connect - ServidorService]INICIO
+[17/01/2016 - 13:02][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines !=0. ChaveDES : com.sun.crypto.provider.DESKey@fffe7b1c
+[17/01/2016 - 13:02][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:02][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:02][ServidorService - Metodo connect[Else]]Message = YES
+[17/01/2016 - 13:02][ServidorService - Metodo connect[Else]]***FIM***
+[17/01/2016 - 13:02][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:02][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:02][ServidorService - Metodo sendAll]***INICIO***
+[17/01/2016 - 13:02][Metodo sendAll - ServidorService]***FIM***
+[17/01/2016 - 13:03][ServidorService - Metodo sendAll]***INICIO***
+[17/01/2016 - 13:03][Metodo sendAll - ServidorService]***FIM***
+[17/01/2016 - 13:03][ServidorService - Metodo send]***INICIO***
+[17/01/2016 - 13:03][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:03][ServidorService - Metodo send]***INICIO***
+[17/01/2016 - 13:03][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:03][ServidorService - Metodo disconnect]INICIO
+[17/01/2016 - 13:03][ServidorService - Metodo sendAll]***INICIO***
+[17/01/2016 - 13:03][Metodo sendAll - ServidorService]***FIM***
+[17/01/2016 - 13:03][ServidorService - Metodo disconnect]O usurário Ze sai da sala
+[17/01/2016 - 13:03][ServidorService - Metodo disconnect]***FIM**
+[17/01/2016 - 13:03][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:03][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:03][ServidorService - Metodo run - IOException]O usuário : Ze deixou o chat.
+[17/01/2016 - 13:03][ServidorService - Metodo send]***INICIO***
+[17/01/2016 - 13:03][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:03][ServidorService - Metodo disconnect]INICIO
+[17/01/2016 - 13:03][ServidorService - Metodo sendAll]***INICIO***
+[17/01/2016 - 13:03][Metodo sendAll - ServidorService]***FIM***
+[17/01/2016 - 13:03][ServidorService - Metodo disconnect]O usurário Koroa sai da sala
+[17/01/2016 - 13:03][ServidorService - Metodo disconnect]***FIM**
+[17/01/2016 - 13:04][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:04][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:04][ServidorService - Metodo run - IOException]O usuário : Koroa deixou o chat.
+[17/01/2016 - 13:05][Metodo connect - ServidorService]INICIO
+[17/01/2016 - 13:05][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[17/01/2016 - 13:05][Metodo connect - ServidorService]tpCrypt : 2
+[17/01/2016 - 13:05][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@fffe794f
+[17/01/2016 - 13:05][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:05][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:05][Metodo connect - ServidorService]MapOnlines = 0
+[17/01/2016 - 13:05][Metodo connect - ServidorService]---FIM Maponlines -----
+[17/01/2016 - 13:05][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:05][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:06][ServidorService - Metodo disconnect]INICIO
+[17/01/2016 - 13:06][ServidorService - Metodo sendAll]***INICIO***
+[17/01/2016 - 13:06][Metodo sendAll - ServidorService]***FIM***
+[17/01/2016 - 13:06][ServidorService - Metodo disconnect]O usurário Dads sai da sala
+[17/01/2016 - 13:06][ServidorService - Metodo disconnect]***FIM**
+[17/01/2016 - 13:06][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:06][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:07][Metodo connect - ServidorService]INICIO
+[17/01/2016 - 13:07][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[17/01/2016 - 13:07][Metodo connect - ServidorService]tpCrypt : 2
+[17/01/2016 - 13:07][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@186f6
+[17/01/2016 - 13:07][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:07][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:07][Metodo connect - ServidorService]MapOnlines = 0
+[17/01/2016 - 13:07][Metodo connect - ServidorService]---FIM Maponlines -----
+[17/01/2016 - 13:07][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:07][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:08][ServidorService - Metodo disconnect]INICIO
+[17/01/2016 - 13:08][ServidorService - Metodo sendAll]***INICIO***
+[17/01/2016 - 13:08][Metodo sendAll - ServidorService]***FIM***
+[17/01/2016 - 13:08][ServidorService - Metodo disconnect]O usurário Olaf sai da sala
+[17/01/2016 - 13:08][ServidorService - Metodo disconnect]***FIM**
+[17/01/2016 - 13:08][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:08][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:08][Metodo connect - ServidorService]INICIO
+[17/01/2016 - 13:08][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[17/01/2016 - 13:08][Metodo connect - ServidorService]tpCrypt : 2
+[17/01/2016 - 13:08][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@18665
+[17/01/2016 - 13:08][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:08][ServidorService - Metodo send]***FIM***
+[17/01/2016 - 13:08][Metodo connect - ServidorService]MapOnlines = 0
+[17/01/2016 - 13:08][Metodo connect - ServidorService]---FIM Maponlines -----
+[17/01/2016 - 13:08][ServidorService - Metodo sendOnlines]***INICIO****
+[17/01/2016 - 13:08][ServidorService - Metodo sendOnlines]***INICIO****
+

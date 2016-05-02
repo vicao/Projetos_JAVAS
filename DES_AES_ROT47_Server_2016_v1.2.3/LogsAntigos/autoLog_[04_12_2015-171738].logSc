@@ -1,0 +1,18 @@
+[04/12/2015 - 17:17:38][Metodo ServidorService]***INICIO***
+[04/12/2015 - 17:21:17][Metodo connect - ServidorService]INICIO
+[04/12/2015 - 17:21:17][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[04/12/2015 - 17:21:17][Metodo connect - ServidorService]tpCrypt : 1
+[04/12/2015 - 17:21:17][ServidorService - Metodo send]***FIM***
+[04/12/2015 - 17:21:17][ServidorService - Metodo send]***FIM***
+[04/12/2015 - 17:21:17][Metodo connect - ServidorService]MapOnlines = 0
+[04/12/2015 - 17:21:17][Metodo connect - ServidorService]---FIM Maponlines -----
+[04/12/2015 - 17:21:17][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:21:17][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:21:24][ServidorService - Metodo disconnect]INICIO
+[04/12/2015 - 17:21:24][ServidorService - Metodo sendAll]***INICIO***
+[04/12/2015 - 17:21:24][Metodo sendAll - ServidorService]***FIM***
+[04/12/2015 - 17:21:24][ServidorService - Metodo disconnect]O usurário dad sai da sala
+[04/12/2015 - 17:21:24][ServidorService - Metodo disconnect]***FIM**
+[04/12/2015 - 17:21:24][ServidorService - Metodo sendOnlines]***INICIO****
+[04/12/2015 - 17:21:24][ServidorService - Metodo sendOnlines]***INICIO****
+

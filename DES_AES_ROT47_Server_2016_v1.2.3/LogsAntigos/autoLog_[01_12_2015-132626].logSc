@@ -1,0 +1,46 @@
+[01/12/2015 - 13:26:27][Metodo ServidorService]***INICIO***
+[01/12/2015 - 13:27:05][Metodo connect - ServidorService]INICIO
+[01/12/2015 - 13:27:05][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[01/12/2015 - 13:27:05][Metodo connect - ServidorService]tpCrypt : 0
+[01/12/2015 - 13:27:05][ServidorService - Metodo send]***FIM***
+[01/12/2015 - 13:27:05][ServidorService - Metodo send]***FIM***
+[01/12/2015 - 13:27:05][Metodo connect - ServidorService]MapOnlines = 0
+[01/12/2015 - 13:27:05][Metodo connect - ServidorService]---FIM Maponlines -----
+[01/12/2015 - 13:27:05][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:27:05][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:27:46][Metodo connect - ServidorService]INICIO
+[01/12/2015 - 13:27:46][ServidorService - Metodo send]***FIM***
+[01/12/2015 - 13:27:46][ServidorService - Metodo send]***FIM***
+[01/12/2015 - 13:27:46][ServidorService - Metodo connect[Else]]Message = YES
+[01/12/2015 - 13:27:46][ServidorService - Metodo connect[Else]]***FIM***
+[01/12/2015 - 13:27:46][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:27:47][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:28:08][ServidorService - Metodo disconnect]INICIO
+[01/12/2015 - 13:28:08][ServidorService - Metodo sendAll]***INICIO***
+[01/12/2015 - 13:28:08][Metodo sendAll - ServidorService]***FIM***
+[01/12/2015 - 13:28:08][ServidorService - Metodo disconnect]O usurário Ze sai da sala
+[01/12/2015 - 13:28:08][ServidorService - Metodo disconnect]***FIM**
+[01/12/2015 - 13:28:08][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:28:08][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:29:18][Metodo connect - ServidorService]INICIO
+[01/12/2015 - 13:29:18][ServidorService - Metodo send]***FIM***
+[01/12/2015 - 13:29:18][ServidorService - Metodo send]***FIM***
+[01/12/2015 - 13:29:18][ServidorService - Metodo connect[Else]]Message = YES
+[01/12/2015 - 13:29:18][ServidorService - Metodo connect[Else]]***FIM***
+[01/12/2015 - 13:29:18][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:29:18][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:29:27][ServidorService - Metodo disconnect]INICIO
+[01/12/2015 - 13:29:27][ServidorService - Metodo sendAll]***INICIO***
+[01/12/2015 - 13:29:27][Metodo sendAll - ServidorService]***FIM***
+[01/12/2015 - 13:29:27][ServidorService - Metodo disconnect]O usurário Kratos sai da sala
+[01/12/2015 - 13:29:27][ServidorService - Metodo disconnect]***FIM**
+[01/12/2015 - 13:29:27][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:29:27][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:29:39][ServidorService - Metodo disconnect]INICIO
+[01/12/2015 - 13:29:39][ServidorService - Metodo sendAll]***INICIO***
+[01/12/2015 - 13:29:39][Metodo sendAll - ServidorService]***FIM***
+[01/12/2015 - 13:29:39][ServidorService - Metodo disconnect]O usurário Mane sai da sala
+[01/12/2015 - 13:29:39][ServidorService - Metodo disconnect]***FIM**
+[01/12/2015 - 13:29:39][ServidorService - Metodo sendOnlines]***INICIO****
+[01/12/2015 - 13:29:39][ServidorService - Metodo sendOnlines]***INICIO****
+

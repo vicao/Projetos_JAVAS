@@ -1,0 +1,35 @@
+[29/12/2015 - 16:24:32][Metodo connect - ServidorService]INICIO
+[29/12/2015 - 16:24:32][Metodo connect - ServidorService]Primeiro cliente a se conectar no servidor
+[29/12/2015 - 16:24:32][Metodo connect - ServidorService]tpCrypt : 2
+[29/12/2015 - 16:24:32][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines ==0. ChaveDES : com.sun.crypto.provider.DESKey@fffe7a95
+[29/12/2015 - 16:24:32][ServidorService - Metodo send]***FIM***
+[29/12/2015 - 16:24:32][ServidorService - Metodo send]***FIM***
+[29/12/2015 - 16:24:32][Metodo connect - ServidorService]MapOnlines = 0
+[29/12/2015 - 16:24:32][Metodo connect - ServidorService]---FIM Maponlines -----
+[29/12/2015 - 16:24:32][ServidorService - Metodo sendOnlines]***INICIO****
+[29/12/2015 - 16:24:32][ServidorService - Metodo sendOnlines]***INICIO****
+[29/12/2015 - 16:24:51][Metodo connect - ServidorService]INICIO
+[29/12/2015 - 16:24:51][Metodo connect - ServidorService]Passou dentro do if tp==2, mapOnlines !=0. ChaveDES : com.sun.crypto.provider.DESKey@fffe7a95
+[29/12/2015 - 16:24:51][ServidorService - Metodo send]***FIM***
+[29/12/2015 - 16:24:51][ServidorService - Metodo send]***FIM***
+[29/12/2015 - 16:24:51][ServidorService - Metodo connect[Else]]Message = YES
+[29/12/2015 - 16:24:51][ServidorService - Metodo connect[Else]]***FIM***
+[29/12/2015 - 16:24:51][ServidorService - Metodo sendOnlines]***INICIO****
+[29/12/2015 - 16:24:51][ServidorService - Metodo sendOnlines]***INICIO****
+[29/12/2015 - 16:26:07][ServidorService - Metodo disconnect]INICIO
+[29/12/2015 - 16:26:07][ServidorService - Metodo sendAll]***INICIO***
+[29/12/2015 - 16:26:07][Metodo sendAll - ServidorService]***FIM***
+[29/12/2015 - 16:26:07][ServidorService - Metodo disconnect]O usurário Sad sai da sala
+[29/12/2015 - 16:26:07][ServidorService - Metodo disconnect]***FIM**
+[29/12/2015 - 16:26:07][ServidorService - Metodo sendOnlines]***INICIO****
+[29/12/2015 - 16:26:07][ServidorService - Metodo sendOnlines]***INICIO****
+[29/12/2015 - 16:26:07][ServidorService - Metodo run - IOException]O usuário : Sad deixou o chat.
+[29/12/2015 - 16:26:10][ServidorService - Metodo disconnect]INICIO
+[29/12/2015 - 16:26:10][ServidorService - Metodo sendAll]***INICIO***
+[29/12/2015 - 16:26:10][Metodo sendAll - ServidorService]***FIM***
+[29/12/2015 - 16:26:10][ServidorService - Metodo disconnect]O usurário Fadr sai da sala
+[29/12/2015 - 16:26:10][ServidorService - Metodo disconnect]***FIM**
+[29/12/2015 - 16:26:10][ServidorService - Metodo sendOnlines]***INICIO****
+[29/12/2015 - 16:26:10][ServidorService - Metodo sendOnlines]***INICIO****
+[29/12/2015 - 16:26:10][ServidorService - Metodo run - IOException]O usuário : Fadr deixou o chat.
+
