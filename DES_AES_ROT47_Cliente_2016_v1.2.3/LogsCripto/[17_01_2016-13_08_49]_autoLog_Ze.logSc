@@ -1,0 +1,12 @@
+[17/01/2016 - 13:09:00][ClienteInterface - Metodo Connected][Ze]Você está conectado no chat!
+[17/01/2016 - 13:09:00][ClienteInterface - Metodo Connected]***FIM****
+[17/01/2016 - 13:09:00][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:09:00][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[17/01/2016 - 13:09:00][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze]
+[17/01/2016 - 13:09:00][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:09:52][ClienteInterface - IOException]Erro : Connection reset
+[17/01/2016 - 13:09:56][ClienteInterface - Metodo formWindowClosed]INICIO
+[17/01/2016 - 13:09:57][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[17/01/2016 - 13:09:57][ClienteInterface - Metodo Disconnected[DES]][Ze]Texto : null
+[17/01/2016 - 13:09:57][ClienteInterface - Metodo Disconnected[DES]][Ze]***FIM***
+[17/01/2016 - 13:09:57][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

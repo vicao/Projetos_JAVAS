@@ -1,0 +1,20 @@
+[02/01/2016 - 19:25:17][ClienteInterface - Metodo Connected]***Inicio****
+[02/01/2016 - 19:25:17][ClienteInterface - Metodo Connected][pamonha]Chave DES gerada : javax.crypto.spec.SecretKeySpec@185c2
+[02/01/2016 - 19:25:17][ClienteInterface - Metodo Connected][pamonha]isIsGenaratedKey : false
+[02/01/2016 - 19:25:17][ClienteInterface - Metodo Connected][pamonha][TpCrypt] 2
+[02/01/2016 - 19:25:17][ClienteInterface - Metodo Connected][pamonha][TpCrypt] 2
+[02/01/2016 - 19:25:19][ClienteInterface - Metodo Connected][pamonha]Você está conectado no chat!
+[02/01/2016 - 19:25:19][ClienteInterface - Metodo Connected]***FIM****
+[02/01/2016 - 19:25:19][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[02/01/2016 - 19:25:19][ClienteInterface - Metodo refreshOnlines]Usuario : pamonha
+[02/01/2016 - 19:25:19][ClienteInterface - Metodo refreshOnlines]Usuarios : [pamonha, Ze]
+[02/01/2016 - 19:25:19][ClienteInterface - Metodo refreshOnlines]***FIM***
+[02/01/2016 - 19:25:29][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[02/01/2016 - 19:25:29][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[02/01/2016 - 19:25:29][ClienteInterface - Metodo btnEnviar][pamonha]isConnected : true
+[02/01/2016 - 19:25:29][Cli[02/01/2016 - 19:25:54][ClienteInterface - Metodo ListenerSocket{TpCrypt}][pamonha]Valor : 2
+[02/01/2016 - 19:26:01][ClienteInterface - Metodo formWindowClosed]INICIO
+[02/01/2016 - 19:26:10][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[02/01/2016 - 19:26:10][ClienteInterface - Metodo Disconnected[DES]][Ze]Texto : null
+[02/01/2016 - 19:26:10][ClienteInterface - Metodo Disconnected[DES]][Ze]***FIM***
+[02/01/2016 - 19:26:10][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

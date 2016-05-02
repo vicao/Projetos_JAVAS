@@ -1,0 +1,33 @@
+[09/01/2016 - 19:01:07][ClienteInterface - Metodo Connected]***Inicio****
+[09/01/2016 - 19:01:07][ClienteInterface - Metodo Connected][Mane]Chave DES gerada : javax.crypto.spec.SecretKeySpec@184a5
+[09/01/2016 - 19:01:07][ClienteInterface - Metodo Connected][Mane]isIsGenaratedKey : false
+[09/01/2016 - 19:01:07][ClienteInterface - Metodo Connected][Mane][TpCrypt] 2
+[09/01/2016 - 19:01:07][ClienteInterface - Metodo Connected][Mane][TpCrypt] 2
+[09/01/2016 - 19:01:08][ClienteInterface - Metodo Connected][Mane]Você está conectado no chat!
+[09/01/2016 - 19:01:08][ClienteInterface - Metodo Connected]***FIM****
+[09/01/2016 - 19:01:08][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[09/01/2016 - 19:01:08][ClienteInterface - Metodo refreshOnlines]Usuario : Mane
+[09/01/2016 - 19:01:08][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze, Mane]
+[09/01/2016 - 19:01:08][ClienteInterface - Metodo refreshOnlines]***FIM***
+[09/01/2016 - 19:01:18][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[09/01/2016 - 19:01:18][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[09/01/2016 - 19:01:18][ClienteInterface - Metodo btnEnviar][Mane]isConnected : true
+[09/01/2016 - 19:01:18][ClienteInterface - Metodo criptografar] Texto : oi
+[09/01/2016 - 19:01:18][ClienteInterface - Metodo criptografar[DES]][Mane]Texto Claro : oi
+[09/01/2016 - 19:01:18][ClienteInterface - Metodo criptografar[DES]] ChavesDES : null
+[09/01/2016 - 19:00:37][Exception]encriptar : No installed provider supports this key: (null)
+[09/01/2016 - 19:01:18][ClienteInterface - Metodo criptografar[DES]] aux : null
+[09/01/2016 - 19:01:48][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Ze]Valor : 2
+[09/01/2016 - 19:01:56][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[09/01/2016 - 19:01:56][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[09/01/2016 - 19:01:56][ClienteInterface - Metodo btnEnviar][Mane]isConnected : true
+[09/01/2016 - 19:01:56][ClienteInterface - Metodo criptografar] Texto : gag
+[09/01/2016 - 19:01:56][ClienteInterface - Metodo criptografar[DES]][Mane]Texto Claro : gag
+[09/01/2016 - 19:01:56][ClienteInterface - Metodo criptografar[DES]] ChavesDES : null
+[09/01/2016 - 19:00:37][Exception]encriptar : No installed provider supports this key: (null)
+[09/01/2016 - 19:01:56][ClienteInterface - Metodo criptografar[DES]] aux : null
+[09/01/2016 - 19:02:13][ClienteInterface - Metodo formWindowClosed]INICIO
+[09/01/2016 - 19:02:14][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[09/01/2016 - 19:02:14][ClienteInterface - Metodo Disconnected[DES]][Mane]Texto : null
+[09/01/2016 - 19:02:14][ClienteInterface - Metodo Disconnected[DES]][Mane]***FIM***
+[09/01/2016 - 19:02:14][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

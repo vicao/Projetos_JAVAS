@@ -1,0 +1,63 @@
+[03/01/2016 - 12:31:40][ClienteInterface - Metodo Connected]***Inicio****
+[03/01/2016 - 12:31:40][ClienteInterface - Metodo Connected][Olai][TpCrypt] 1
+[03/01/2016 - 12:31:40][ClienteInterface - Metodo Connected][Olai][TpCrypt] 1
+[03/01/2016 - 12:31:42][ClienteInterface - Metodo Connected][Olai]Você está conectado no chat!
+[03/01/2016 - 12:31:42][ClienteInterface - Metodo Connected]***FIM****
+[03/01/2016 - 12:31:42][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 12:31:42][ClienteInterface - Metodo refreshOnlines]Usuario : Olai
+[03/01/2016 - 12:31:42][ClienteInterface - Metodo refreshOnlines]Usuarios : [Olai]
+[03/01/2016 - 12:31:42][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 12:31:52][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 12:31:52][ClienteInterface - Metodo refreshOnlines]Usuario : Olai
+[03/01/2016 - 12:31:52][ClienteInterface - Metodo refreshOnlines]Usuarios : [Olai, Olaf]
+[03/01/2016 - 12:31:52][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Olaf]Valor : 1
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo ListenerSocket[ROT47]][Olaf]Mensagem : E6DE6
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo receive]****INICIO***
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo receive][Olai][TpCrypt] 1
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo receive[Rot47]][Olaf]txtcripto : E6DE6
+[03/01/2016 - 12:31:26][ROT47]Mensagem Decifrada : teste
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo receive]****FIM***
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 1
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 1
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo btnEnviar][Olai]isConnected : true
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo criptografar[ROT47]][Olai]Texto Claro : oi
+[03/01/2016 - 12:31:26][ROT47]Mensagem Cifrada : @:
+[03/01/2016 - 12:31:26][ROT47]Mensagem Cifrada : @:
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo criptografar[ROT47]]Texto Criptografado : @:
+[03/01/2016 - 12:31:26][ROT47]Mensagem Decifrada : oi
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo criptografar[ROT47]][Olai]Texto Descriptografado : oi
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo criptografar[ROT47]][Olai]Teste : @:
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo btnEnviar[ROT47]][Olai]textOld : oi
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo btnEnviar[ROT47]][Olai]txtMSG : @:
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Olaf]Valor : 1
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo ListenerSocket[ROT47]][Olaf]Mensagem : >2?6
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo receive]****INICIO***
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo receive][Olai][TpCrypt] 1
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo receive[Rot47]][Olaf]txtcripto : >2?6
+[03/01/2016 - 12:31:26][ROT47]Mensagem Decifrada : mane
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo receive]****FIM***
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Olaf]Valor : 1
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo ListenerSocket[ROT47]][Olaf]Mensagem : E492F
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo receive]****INICIO***
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo receive][Olai][TpCrypt] 1
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo receive[Rot47]][Olaf]txtcripto : E492F
+[03/01/2016 - 12:31:26][ROT47]Mensagem Decifrada : tchau
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo receive]****FIM***
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Olaf]Valor : 0
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo ListenerSocket[NoCrypt]][Olaf]Mensagem :  até logo!
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo receive]****INICIO***
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo receive][Olai][TpCrypt] 0
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo receive[noCrypt]][Olaf] até logo!
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo receive]****FIM***
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo refreshOnlines]Usuario : Olai
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo refreshOnlines]Usuarios : [Olai]
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 12:32:25][ClienteInterface - Metodo formWindowClosed]INICIO
+[03/01/2016 - 12:32:27][ClienteInterface - Metodo Disconnected[ROT47]]***Inicio****
+[03/01/2016 - 12:32:27][ClienteInterface - Metodo Disconnected[ROT47]][Olai]Texto : @:
+[03/01/2016 - 12:31:26][ROT47]Mensagem Decifrada : oi
+[03/01/2016 - 12:32:27][ClienteInterface - Metodo Disconnected[ROT47]][Olai]Texto Descriptografado : oi
+[03/01/2016 - 12:32:27][ClienteInterface - Metodo Disconnected[ROT47]][Olai]***FIM***
+[03/01/2016 - 12:32:27][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

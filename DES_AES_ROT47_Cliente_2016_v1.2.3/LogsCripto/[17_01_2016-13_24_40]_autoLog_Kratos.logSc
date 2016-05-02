@@ -1,0 +1,28 @@
+[17/01/2016 - 13:25:21][ClienteInterface - Metodo Connected]***Inicio****
+[17/01/2016 - 13:25:21][ClienteInterface - Metodo Connected][Kratos]Chave DES gerada : javax.crypto.spec.SecretKeySpec@fffe7bd0
+[17/01/2016 - 13:25:21][ClienteInterface - Metodo Connected][Kratos]isIsGenaratedKey : false
+[17/01/2016 - 13:25:21][ClienteInterface - Metodo Connected][Kratos][TpCrypt] 2
+[17/01/2016 - 13:25:21][ClienteInterface - Metodo Connected][Kratos][TpCrypt] 2
+[17/01/2016 - 13:25:21][ClienteInterface - Metodo Connected][Chave DES] : null
+[17/01/2016 - 13:25:23][ClienteInterface - Metodo Connected][Kratos]Você está conectado no chat!
+[17/01/2016 - 13:25:23][ClienteInterface - Metodo Connected]***FIM****
+[17/01/2016 - 13:25:23][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:25:23][ClienteInterface - Metodo refreshOnlines]Usuario : Kratos
+[17/01/2016 - 13:25:23][ClienteInterface - Metodo refreshOnlines]Usuarios : [Kratos, Mane]
+[17/01/2016 - 13:25:23][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:25:34][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Mane]Valor : 2
+[17/01/2016 - 13:25:41][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[17/01/2016 - 13:25:41][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[17/01/2016 - 13:25:41][ClienteInterface - Metodo btnEnviar][Kratos]isConnected : true
+[17/01/2016 - 13:25:41][ClienteInterface - Metodo criptografar] Texto : teste Kratos
+[17/01/2016 - 13:25:41][ClienteInterface - Metodo criptografar[DES]][Kratos]Texto Claro : teste Kratos
+[17/01/2016 - 13:25:41][ClienteInterface - Metodo criptografar[DES]] ChavesDES : null
+[17/01/2016 - 13:24:40][Exception]encriptar : No installed provider supports this key: (null)
+[17/01/2016 - 13:25:42][ClienteInterface - Metodo criptografar[DES]] aux : null
+ChaveDES : null
+[message]ChaveDES : null
+[17/01/2016 - 13:26:03][ClienteInterface - Metodo formWindowClosed]INICIO
+[17/01/2016 - 13:26:04][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[17/01/2016 - 13:26:04][ClienteInterface - Metodo Disconnected[DES]][Kratos]Texto : null
+[17/01/2016 - 13:26:04][ClienteInterface - Metodo Disconnected[DES]][Kratos]***FIM***
+[17/01/2016 - 13:26:04][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

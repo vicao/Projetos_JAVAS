@@ -1,0 +1,12 @@
+[17/01/2016 - 13:21:20][ClienteInterface - Metodo Connected][Nostradamos]Você está conectado no chat!
+[17/01/2016 - 13:21:20][ClienteInterface - Metodo Connected]***FIM****
+[17/01/2016 - 13:21:20][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:21:20][ClienteInterface - Metodo refreshOnlines]Usuario : Nostradamos
+[17/01/2016 - 13:21:20][ClienteInterface - Metodo refreshOnlines]Usuarios : [lobo, Nostradamos]
+[17/01/2016 - 13:21:20][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:22:12][ClienteInterface - Metodo ListenerSocket{TpCrypt}][lobo]Valor : 2
+[17/01/2016 - 13:22:15][ClienteInterface - Metodo formWindowClosed]INICIO
+[17/01/2016 - 13:22:19][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[17/01/2016 - 13:22:19][ClienteInterface - Metodo Disconnected[DES]][Nostradamos]Texto : null
+[17/01/2016 - 13:22:19][ClienteInterface - Metodo Disconnected[DES]][Nostradamos]***FIM***
+[17/01/2016 - 13:22:19][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

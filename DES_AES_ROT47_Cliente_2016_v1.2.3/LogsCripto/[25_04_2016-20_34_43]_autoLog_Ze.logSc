@@ -1,0 +1,17 @@
+[25/04/2016 - 20:34:56][ClienteInterface - Metodo Connected]***Inicio****
+[25/04/2016 - 20:34:56][ClienteInterface - Metodo Connected][Ze]Chave DES gerada : javax.crypto.spec.SecretKeySpec@18426
+[25/04/2016 - 20:34:56][ClienteInterface - Metodo Connected][Ze]isIsGenaratedKey : true
+[25/04/2016 - 20:34:56][ClienteInterface - Metodo Connected][Ze][TpCrypt] 2
+[25/04/2016 - 20:34:56][ClienteInterface - Metodo Connected][Ze][TpCrypt] 2
+[25/04/2016 - 20:34:56][ClienteInterface - Metodo Connected][Chave DES] : javax.crypto.spec.SecretKeySpec@18426
+[25/04/2016 - 20:34:57][ClienteInterface - Metodo Connected][Ze]Você está conectado no chat!
+[25/04/2016 - 20:34:57][ClienteInterface - Metodo Connected]***FIM****
+[25/04/2016 - 20:34:57][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[25/04/2016 - 20:34:57][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[25/04/2016 - 20:34:57][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze]
+[25/04/2016 - 20:34:57][ClienteInterface - Metodo refreshOnlines]***FIM***
+[25/04/2016 - 20:35:12][ClienteInterface - Metodo formWindowClosed]INICIO
+[25/04/2016 - 20:35:13][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[25/04/2016 - 20:35:13][ClienteInterface - Metodo Disconnected[DES]][Ze]Texto : null
+[25/04/2016 - 20:35:13][ClienteInterface - Metodo Disconnected[DES]][Ze]***FIM***
+[25/04/2016 - 20:35:13][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

@@ -1,0 +1,30 @@
+[09/01/2016 - 22:22:05][ClienteInterface - Metodo Connected]***Inicio****
+[09/01/2016 - 22:22:05][ClienteInterface - Metodo Connected][Ze]Chave DES gerada : javax.crypto.spec.SecretKeySpec@187e1
+[09/01/2016 - 22:22:05][ClienteInterface - Metodo Connected][Ze]isIsGenaratedKey : true
+[09/01/2016 - 22:22:05][ClienteInterface - Metodo Connected][Ze][TpCrypt] 2
+[09/01/2016 - 22:22:05][ClienteInterface - Metodo Connected][Ze][TpCrypt] 2
+[09/01/2016 - 22:22:05][ClienteInterface - Metodo Connected][Chave DES] : null
+[09/01/2016 - 22:22:06][ClienteInterface - Metodo Connected][Ze]Você está conectado no chat!
+[09/01/2016 - 22:22:06][ClienteInterface - Metodo Connected]***FIM****
+[09/01/2016 - 22:22:06][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[09/01/2016 - 22:22:06][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[09/01/2016 - 22:22:06][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze]
+[09/01/2016 - 22:22:06][ClienteInterface - Metodo refreshOnlines]***FIM***
+[09/01/2016 - 22:22:56][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[09/01/2016 - 22:22:56][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[09/01/2016 - 22:22:56][ClienteInterface - Metodo refreshOnlines]Usuarios : [Kratos, Ze]
+[09/01/2016 - 22:22:56][ClienteInterface - Metodo refreshOnlines]***FIM***
+[09/01/2016 - 22:23:12][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Kratos]Valor : 2
+[09/01/2016 - 22:23:23][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[09/01/2016 - 22:23:23][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[09/01/2016 - 22:23:23][ClienteInterface - Metodo btnEnviar][Ze]isConnected : true
+[09/01/2016 - 22:23:23][ClienteInterface - Metodo criptografar] Texto : teste
+[09/01/2016 - 22:23:23][ClienteInterface - Metodo criptografar[DES]][Ze]Texto Claro : teste
+[09/01/2016 - 22:23:23][ClienteInterface - Metodo criptografar[DES]] ChavesDES : null
+[09/01/2016 - 22:21:45][Exception]encriptar : No installed provider supports this key: (null)
+[09/01/2016 - 22:23:23][ClienteInterface - Metodo criptografar[DES]] aux : null
+[09/01/2016 - 22:23:47][ClienteInterface - Metodo formWindowClosed]INICIO
+[09/01/2016 - 22:23:48][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[09/01/2016 - 22:23:48][ClienteInterface - Metodo Disconnected[DES]][Ze]Texto : null
+[09/01/2016 - 22:23:48][ClienteInterface - Metodo Disconnected[DES]][Ze]***FIM***
+[09/01/2016 - 22:23:48][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

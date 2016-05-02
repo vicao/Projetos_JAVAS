@@ -1,0 +1,16 @@
+[03/01/2016 - 12:27:42][ClienteInterface - Metodo Connected]***Inicio****
+[03/01/2016 - 12:27:42][ClienteInterface - Metodo Connected][Kratos]Chave DES gerada : javax.crypto.spec.SecretKeySpec@181be
+[03/01/2016 - 12:27:42][ClienteInterface - Metodo Connected][Kratos]isIsGenaratedKey : true
+[03/01/2016 - 12:27:42][ClienteInterface - Metodo Connected][Kratos][TpCrypt] 2
+[03/01/2016 - 12:27:42][ClienteInterface - Metodo Connected][Kratos][TpCrypt] 2
+[03/01/2016 - 12:27:44][ClienteInterface - Metodo Connected][Kratos]Você está conectado no chat!
+[03/01/2016 - 12:27:44][ClienteInterface - Metodo Connected]***FIM****
+[03/01/2016 - 12:27:44][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 12:27:44][ClienteInterface - Metodo refreshOnlines]Usuario : Kratos
+[03/01/2016 - 12:27:44][ClienteInterface - Metodo refreshOnlines]Usuarios : [Kratos]
+[03/01/2016 - 12:27:44][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 12:28:26][ClienteInterface - Metodo formWindowClosed]INICIO
+[03/01/2016 - 12:28:27][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[03/01/2016 - 12:28:27][ClienteInterface - Metodo Disconnected[DES]][Kratos]Texto : null
+[03/01/2016 - 12:28:27][ClienteInterface - Metodo Disconnected[DES]][Kratos]***FIM***
+[03/01/2016 - 12:28:27][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

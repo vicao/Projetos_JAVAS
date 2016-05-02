@@ -1,0 +1,102 @@
+[06/04/2016 - 18:03:20][ClienteInterface - Metodo Connected]***Inicio****
+[06/04/2016 - 18:03:20][ClienteInterface - Metodo Connected][Ze][TpCrypt] 1
+[06/04/2016 - 18:03:20][ClienteInterface - Metodo Connected][Ze][TpCrypt] 1
+[06/04/2016 - 18:03:20][ClienteInterface - Metodo Connected][Chave DES] : null
+[06/04/2016 - 18:03:24][ClienteInterface - Metodo Connected][Ze]Você está conectado no chat!
+[06/04/2016 - 18:03:24][ClienteInterface - Metodo Connected]***FIM****
+[06/04/2016 - 18:03:24][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[06/04/2016 - 18:03:24][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[06/04/2016 - 18:03:24][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze]
+[06/04/2016 - 18:03:24][ClienteInterface - Metodo refreshOnlines]***FIM***
+[06/04/2016 - 18:03:35][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[06/04/2016 - 18:03:35][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[06/04/2016 - 18:03:35][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze, Mane]
+[06/04/2016 - 18:03:35][ClienteInterface - Metodo refreshOnlines]***FIM***
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 1
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 1
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo btnEnviar][Ze]isConnected : true
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo criptografarROT47] Texto : teste
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Texto Claro : teste
+[06/04/2016 - 18:02:50][ROT47]Mensagem Cifrada : E6DE6
+[06/04/2016 - 18:02:50][ROT47]Mensagem Cifrada : E6DE6
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo criptografarROT47[ROT47]]Texto Criptografado : E6DE6
+[06/04/2016 - 18:02:50][ROT47]Mensagem Decifrada : teste
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Texto Descriptografado : teste
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Teste : E6DE6
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo btnEnviar[ROT47]][Ze]textOld : teste
+[06/04/2016 - 18:03:46][ClienteInterface - Metodo btnEnviar[ROT47]][Ze]txtMSG : E6DE6
+|*******************************************|
+[06/04/2016 - 18:03:46][[btnEnviarActionPerformed]]ChaveDES : null
+[06/04/2016 - 18:03:46][[btnEnviarActionPerformed]][message]ChaveDES : null
+[06/04/2016 - 18:03:46][[btnEnviarActionPerformed]]TextoClaro : teste
+[06/04/2016 - 18:03:46][[btnEnviarActionPerformed]]Textocriptofrado : null
+[06/04/2016 - 18:02:50][Exception]descriptar : No installed provider supports this key: (null)
+[06/04/2016 - 18:03:46][[btnEnviarActionPerformed]]TextoDescriptografado : 
+|*******************************************|
+[06/04/2016 - 18:03:58][ClienteInterface - Metodo receive]****INICIO***
+[06/04/2016 - 18:03:58][ClienteInterface - Metodo receive][Ze][TpCrypt] 1
+[06/04/2016 - 18:03:58][ClienteInterface - Metodo receive[Rot47]][Mane]txtcripto : @: K6[ EF5@ 36>n 4@>@ G2:n
+[06/04/2016 - 18:02:50][ROT47]Mensagem Decifrada : oi ze, tudo bem? como vai?
+[06/04/2016 - 18:03:58][ClienteInterface - Metodo receive]****FIM***
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 1
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 1
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo btnEnviar][Ze]isConnected : true
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo criptografarROT47] Texto : :sair
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Texto Claro : :sair
+[06/04/2016 - 18:02:50][ROT47]Mensagem Cifrada : iD2:C
+[06/04/2016 - 18:02:50][ROT47]Mensagem Cifrada : iD2:C
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo criptografarROT47[ROT47]]Texto Criptografado : iD2:C
+[06/04/2016 - 18:02:50][ROT47]Mensagem Decifrada : :sair
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Texto Descriptografado : :sair
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Teste : iD2:C
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo btnEnviar[ROT47]][Ze]textOld : :sair
+[06/04/2016 - 18:04:10][ClienteInterface - Metodo btnEnviar[ROT47]][Ze]txtMSG : iD2:C
+|*******************************************|
+[06/04/2016 - 18:04:10][[btnEnviarActionPerformed]]ChaveDES : null
+[06/04/2016 - 18:04:10][[btnEnviarActionPerformed]][message]ChaveDES : null
+[06/04/2016 - 18:04:10][[btnEnviarActionPerformed]]TextoClaro : :sair
+[06/04/2016 - 18:04:10][[btnEnviarActionPerformed]]Textocriptofrado : null
+[06/04/2016 - 18:02:50][Exception]descriptar : No installed provider supports this key: (null)
+[06/04/2016 - 18:04:10][[btnEnviarActionPerformed]]TextoDescriptografado : 
+|*******************************************|
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 1
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 1
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo btnEnviar][Ze]isConnected : true
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo criptografarROT47] Texto : /Sair
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Texto Claro : /Sair
+[06/04/2016 - 18:02:50][ROT47]Mensagem Cifrada : ^$2:C
+[06/04/2016 - 18:02:50][ROT47]Mensagem Cifrada : ^$2:C
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo criptografarROT47[ROT47]]Texto Criptografado : ^$2:C
+[06/04/2016 - 18:02:50][ROT47]Mensagem Decifrada : /Sair
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Texto Descriptografado : /Sair
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo criptografarROT47[ROT47]][Ze]Teste : ^$2:C
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo btnEnviar[ROT47]][Ze]textOld : /Sair
+[06/04/2016 - 18:04:20][ClienteInterface - Metodo btnEnviar[ROT47]][Ze]txtMSG : ^$2:C
+|*******************************************|
+[06/04/2016 - 18:04:20][[btnEnviarActionPerformed]]ChaveDES : null
+[06/04/2016 - 18:04:20][[btnEnviarActionPerformed]][message]ChaveDES : null
+[06/04/2016 - 18:04:20][[btnEnviarActionPerformed]]TextoClaro : /Sair
+[06/04/2016 - 18:04:20][[btnEnviarActionPerformed]]Textocriptofrado : null
+[06/04/2016 - 18:02:50][Exception]descriptar : No installed provider supports this key: (null)
+[06/04/2016 - 18:04:20][[btnEnviarActionPerformed]]TextoDescriptografado : 
+|*******************************************|
+[06/04/2016 - 18:04:27][ClienteInterface - Metodo receive]****INICIO***
+[06/04/2016 - 18:04:27][ClienteInterface - Metodo receive][Ze][TpCrypt] 1
+[06/04/2016 - 18:04:27][ClienteInterface - Metodo receive[Rot47]][Mane]txtcripto : E942F
+[06/04/2016 - 18:02:50][ROT47]Mensagem Decifrada : thcau
+[06/04/2016 - 18:04:27][ClienteInterface - Metodo receive]****FIM***
+[06/04/2016 - 18:04:37][ClienteInterface - Metodo receive]****INICIO***
+[06/04/2016 - 18:04:37][ClienteInterface - Metodo receive][Ze][TpCrypt] 0
+[06/04/2016 - 18:04:37][ClienteInterface - Metodo receive[noCrypt]][Mane] até logo!
+[06/04/2016 - 18:04:37][ClienteInterface - Metodo receive]****FIM***
+[06/04/2016 - 18:04:37][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[06/04/2016 - 18:04:37][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[06/04/2016 - 18:04:37][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze]
+[06/04/2016 - 18:04:37][ClienteInterface - Metodo refreshOnlines]***FIM***
+[06/04/2016 - 18:04:49][ClienteInterface - Metodo Disconnected[ROT47]]***Inicio****
+[06/04/2016 - 18:04:49][ClienteInterface - Metodo Disconnected[ROT47]][Ze]Texto : ^$2:C
+[06/04/2016 - 18:02:50][ROT47]Mensagem Decifrada : /Sair
+[06/04/2016 - 18:04:49][ClienteInterface - Metodo Disconnected[ROT47]][Ze]Texto Descriptografado : /Sair
+[06/04/2016 - 18:04:49][ClienteInterface - Metodo Disconnected[ROT47]][Ze]***FIM***
+[06/04/2016 - 18:04:51][ClienteInterface - Metodo formWindowClosed]INICIO
+[06/04/2016 - 18:04:51][ClienteInterface - Metodo formWindowClosed]FIM ELSE

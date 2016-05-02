@@ -1,0 +1,21 @@
+[03/01/2016 - 10:45:19][ClienteInterface - Metodo Connected]***Inicio****
+[03/01/2016 - 10:45:19][ClienteInterface - Metodo Connected][Kratos]Chave DES gerada : javax.crypto.spec.SecretKeySpec@fffe7e65
+[03/01/2016 - 10:45:19][ClienteInterface - Metodo Connected][Kratos]isIsGenaratedKey : true
+[03/01/2016 - 10:45:19][ClienteInterface - Metodo Connected][Kratos][TpCrypt] 2
+[03/01/2016 - 10:45:19][ClienteInterface - Metodo Connected][Kratos][TpCrypt] 2
+[03/01/2016 - 10:45:21][ClienteInterface - Metodo Connected][Kratos]Você está conectado no chat!
+[03/01/2016 - 10:45:21][ClienteInterface - Metodo Connected]***FIM****
+[03/01/2016 - 10:45:21][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 10:45:21][ClienteInterface - Metodo refreshOnlines]Usuario : Kratos
+[03/01/2016 - 10:45:21][ClienteInterface - Metodo refreshOnlines]Usuarios : [Kratos]
+[03/01/2016 - 10:45:21][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 10:45:32][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[03/01/2016 - 10:45:32][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[03/01/2016 - 10:45:32][ClienteInterface - Metodo btnEnviar][Kratos]isConnected : true
+[03/01/2016 - 10:45:32][ClienteInterface - Metodo criptografar[DES]][Kratos]Texto Claro : teste
+[Exception]encriptar : No installed provider supports this key: (null)
+[03/01/2016 - 10:45:48][ClienteInterface - Metodo formWindowClosed]INICIO
+[03/01/2016 - 10:45:49][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[03/01/2016 - 10:45:49][ClienteInterface - Metodo Disconnected[DES]][Kratos]Texto : null
+[03/01/2016 - 10:45:49][ClienteInterface - Metodo Disconnected[DES]][Kratos]***FIM***
+[03/01/2016 - 10:45:49][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

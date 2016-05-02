@@ -1,0 +1,27 @@
+[03/01/2016 - 11:58:21][ClienteInterface - Metodo Connected]***Inicio****
+[03/01/2016 - 11:58:21][ClienteInterface - Metodo Connected][Fads][TpCrypt] 1
+[03/01/2016 - 11:58:21][ClienteInterface - Metodo Connected][Fads][TpCrypt] 1
+[03/01/2016 - 11:58:22][ClienteInterface - Metodo Connected][Fads]Você está conectado no chat!
+[03/01/2016 - 11:58:22][ClienteInterface - Metodo Connected]***FIM****
+[03/01/2016 - 11:58:22][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 11:58:22][ClienteInterface - Metodo refreshOnlines]Usuario : Fads
+[03/01/2016 - 11:58:22][ClienteInterface - Metodo refreshOnlines]Usuarios : [Dad, Fads]
+[03/01/2016 - 11:58:22][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Dad]Valor : 1
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo ListenerSocket[ROT47]][Dad]Mensagem :  até logo!
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo receive]****INICIO***
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo receive][Fads][TpCrypt] 1
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo receive[Rot47]][Dad]txtcripto :  até logo!
+[03/01/2016 - 11:57:54][ROT47]Mensagem Decifrada :  2Eé =@8@P
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo receive]****FIM***
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo refreshOnlines]Usuario : Fads
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo refreshOnlines]Usuarios : [Fads]
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 11:58:51][ClienteInterface - Metodo formWindowClosed]INICIO
+[03/01/2016 - 11:58:53][ClienteInterface - Metodo Disconnected[ROT47]]***Inicio****
+[03/01/2016 - 11:58:53][ClienteInterface - Metodo Disconnected[ROT47]][Fads]Texto : YES
+[03/01/2016 - 11:57:54][ROT47]Mensagem Decifrada : *t$
+[03/01/2016 - 11:58:53][ClienteInterface - Metodo Disconnected[ROT47]][Fads]Texto Descriptografado : *t$
+[03/01/2016 - 11:58:53][ClienteInterface - Metodo Disconnected[ROT47]][Fads]***FIM***
+[03/01/2016 - 11:58:53][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

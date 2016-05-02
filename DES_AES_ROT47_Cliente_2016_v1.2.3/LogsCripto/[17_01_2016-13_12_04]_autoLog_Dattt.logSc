@@ -1,0 +1,17 @@
+[17/01/2016 - 13:12:18][ClienteInterface - Metodo Connected]***Inicio****
+[17/01/2016 - 13:12:18][ClienteInterface - Metodo Connected][Dattt]Chave DES gerada : javax.crypto.spec.SecretKeySpec@18097
+[17/01/2016 - 13:12:18][ClienteInterface - Metodo Connected][Dattt]isIsGenaratedKey : true
+[17/01/2016 - 13:12:18][ClienteInterface - Metodo Connected][Dattt][TpCrypt] 2
+[17/01/2016 - 13:12:18][ClienteInterface - Metodo Connected][Dattt][TpCrypt] 2
+[17/01/2016 - 13:12:18][ClienteInterface - Metodo Connected][Chave DES] : null
+[17/01/2016 - 13:12:25][ClienteInterface - Metodo Connected][Dattt]Você está conectado no chat!
+[17/01/2016 - 13:12:25][ClienteInterface - Metodo Connected]***FIM****
+[17/01/2016 - 13:12:25][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:12:25][ClienteInterface - Metodo refreshOnlines]Usuario : Dattt
+[17/01/2016 - 13:12:25][ClienteInterface - Metodo refreshOnlines]Usuarios : [Dattt]
+[17/01/2016 - 13:12:25][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:12:33][ClienteInterface - Metodo formWindowClosed]INICIO
+[17/01/2016 - 13:12:34][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[17/01/2016 - 13:12:34][ClienteInterface - Metodo Disconnected[DES]][Dattt]Texto : null
+[17/01/2016 - 13:12:34][ClienteInterface - Metodo Disconnected[DES]][Dattt]***FIM***
+[17/01/2016 - 13:12:34][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

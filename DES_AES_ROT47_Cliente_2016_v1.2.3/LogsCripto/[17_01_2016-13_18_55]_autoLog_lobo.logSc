@@ -1,0 +1,21 @@
+[17/01/2016 - 13:19:10][ClienteInterface - Metodo Connected]***Inicio****
+[17/01/2016 - 13:19:10][ClienteInterface - Metodo Connected][lobo]Chave DES gerada : javax.crypto.spec.SecretKeySpec@fffe78a1
+[17/01/2016 - 13:19:10][ClienteInterface - Metodo Connected][lobo]isIsGenaratedKey : true
+[17/01/2016 - 13:19:10][ClienteInterface - Metodo Connected][lobo][TpCrypt] 2
+[17/01/2016 - 13:19:10][ClienteInterface - Metodo Connected][lobo][TpCrypt] 2
+[17/01/2016 - 13:19:10][ClienteInterface - Metodo Connected][Chave DES] : null
+[17/01/2016 - 13:19:12][ClienteInterface - Metodo Connected][lobo]Você está conectado no chat!
+[17/01/2016 - 13:19:12][ClienteInterface - Metodo Connected]***FIM****
+[17/01/2016 - 13:19:12][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:19:12][ClienteInterface - Metodo refreshOnlines]Usuario : lobo
+[17/01/2016 - 13:19:12][ClienteInterface - Metodo refreshOnlines]Usuarios : [lobo]
+[17/01/2016 - 13:19:12][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:21:17][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:21:17][ClienteInterface - Metodo refreshOnlines]Usuario : lobo
+[17/01/2016 - 13:21:17][ClienteInterface - Metodo refreshOnlines]Usuarios : [lobo, Nostradamos]
+[17/01/2016 - 13:21:17][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:22:12][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[17/01/2016 - 13:22:12][ClienteInterface - Metodo Disconnected[DES]][lobo]Texto : null
+[17/01/2016 - 13:22:12][ClienteInterface - Metodo Disconnected[DES]][lobo]***FIM***
+[17/01/2016 - 13:22:13][ClienteInterface - Metodo formWindowClosed]INICIO
+[17/01/2016 - 13:22:13][ClienteInterface - Metodo formWindowClosed]FIM ELSE

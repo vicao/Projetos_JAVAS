@@ -1,0 +1,24 @@
+[02/01/2016 - 20:17:33][ClienteInterface - Metodo Connected]***Inicio****
+[02/01/2016 - 20:17:33][ClienteInterface - Metodo Connected][Carro]Chave DES gerada : javax.crypto.spec.SecretKeySpec@1843e
+[02/01/2016 - 20:17:33][ClienteInterface - Metodo Connected][Carro]isIsGenaratedKey : true
+[02/01/2016 - 20:17:33][ClienteInterface - Metodo Connected][Carro][TpCrypt] 2
+[02/01/2016 - 20:17:33][ClienteInterface - Metodo Connected][Carro][TpCrypt] 2
+[02/01/2016 - 20:17:35][ClienteInterface - Metodo Connected][Carro]Você está conectado no chat!
+[02/01/2016 - 20:17:35][ClienteInterface - Metodo Connected]***FIM****
+[02/01/2016 - 20:17:35][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[02/01/2016 - 20:17:35][ClienteInterface - Metodo refreshOnlines]Usuario : Carro
+[02/01/2016 - 20:17:35][ClienteInterface - Metodo refreshOnlines]Usuarios : [Carro]
+[02/01/2016 - 20:17:35][ClienteInterface - Metodo refreshOnlines]***FIM***
+[02/01/2016 - 20:17:54][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[02/01/2016 - 20:17:54][ClienteInterface - Metodo refreshOnlines]Usuario : Carro
+[02/01/2016 - 20:17:54][ClienteInterface - Metodo refreshOnlines]Usuarios : [Carro, Cachorro]
+[02/01/2016 - 20:17:54][ClienteInterface - Metodo refreshOnlines]***FIM***
+[02/01/2016 - 20:18:06][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[02/01/2016 - 20:18:06][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[02/01/2016 - 20:18:06][ClienteInterface - Metodo btnEnviar][Carro]isConnected : true
+[02/01/2016 - 20:18:06][ClienteInterface - Metodo criptografar[DES]][Carro]Texto Claro : teste
+[02/01/2016 - 20:18:09][ClienteInterface - Metodo formWindowClosed]INICIO
+[02/01/2016 - 20:18:10][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[02/01/2016 - 20:18:10][ClienteInterface - Metodo Disconnected[DES]][Carro]Texto : null
+[02/01/2016 - 20:18:10][ClienteInterface - Metodo Disconnected[DES]][Carro]***FIM***
+[02/01/2016 - 20:18:10][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

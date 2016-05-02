@@ -1,0 +1,16 @@
+[02/01/2016 - 20:17:56][ClienteInterface - Metodo Connected][Cachorro]Você está conectado no chat!
+[02/01/2016 - 20:17:56][ClienteInterface - Metodo Connected]***FIM****
+[02/01/2016 - 20:17:56][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[02/01/2016 - 20:17:56][ClienteInterface - Metodo refreshOnlines]Usuario : Cachorro
+[02/01/2016 - 20:17:56][ClienteInterface - Metodo refreshOnlines]Usuarios : [Carro, Cachorro]
+[02/01/2016 - 20:17:56][ClienteInterface - Metodo refreshOnlines]***FIM***
+[02/01/2016 - 20:18:00][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[02/01/2016 - 20:18:00][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[02/01/2016 - 20:18:00][ClienteInterface - Metodo btnEnviar][Cachorro]isConnected : true
+[02/01/2016 - 20:18:00][ClienteInterface - Metodo criptografar[DES]][Cachorro]Texto Claro : oi
+[02/01/2016 - 20:18:10][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Carro]Valor : 2
+[02/01/2016 - 20:18:29][ClienteInterface - Metodo formWindowClosed]INICIO
+[02/01/2016 - 20:18:32][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[02/01/2016 - 20:18:32][ClienteInterface - Metodo Disconnected[DES]][Cachorro]Texto : null
+[02/01/2016 - 20:18:32][ClienteInterface - Metodo Disconnected[DES]][Cachorro]***FIM***
+[02/01/2016 - 20:18:32][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

@@ -1,0 +1,38 @@
+[17/01/2016 - 13:01:38][ClienteInterface - Metodo Connected]***Inicio****
+[17/01/2016 - 13:01:38][ClienteInterface - Metodo Connected][Ze]Chave DES gerada : javax.crypto.spec.SecretKeySpec@fffe7b1c
+[17/01/2016 - 13:01:38][ClienteInterface - Metodo Connected][Ze]isIsGenaratedKey : true
+[17/01/2016 - 13:01:38][ClienteInterface - Metodo Connected][Ze][TpCrypt] 2
+[17/01/2016 - 13:01:38][ClienteInterface - Metodo Connected][Ze][TpCrypt] 2
+[17/01/2016 - 13:01:38][ClienteInterface - Metodo Connected][Chave DES] : null
+[17/01/2016 - 13:01:41][ClienteInterface - Metodo Connected][Ze]Você está conectado no chat!
+[17/01/2016 - 13:01:41][ClienteInterface - Metodo Connected]***FIM****
+[17/01/2016 - 13:01:41][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:01:41][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[17/01/2016 - 13:01:41][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze]
+[17/01/2016 - 13:01:41][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:02:30][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:02:30][ClienteInterface - Metodo refreshOnlines]Usuario : Ze
+[17/01/2016 - 13:02:30][ClienteInterface - Metodo refreshOnlines]Usuarios : [Koroa, Ze]
+[17/01/2016 - 13:02:30][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:02:46][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[17/01/2016 - 13:02:46][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[17/01/2016 - 13:02:46][ClienteInterface - Metodo btnEnviar][Ze]isConnected : true
+[17/01/2016 - 13:02:46][ClienteInterface - Metodo criptografar] Texto : teste
+[17/01/2016 - 13:02:46][ClienteInterface - Metodo criptografar[DES]][Ze]Texto Claro : teste
+[17/01/2016 - 13:02:46][ClienteInterface - Metodo criptografar[DES]] ChavesDES : null
+[17/01/2016 - 13:01:18][Exception]encriptar : No installed provider supports this key: (null)
+[17/01/2016 - 13:02:46][ClienteInterface - Metodo criptografar[DES]] aux : null
+[17/01/2016 - 13:03:00][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Koroa]Valor : 2
+[17/01/2016 - 13:03:25][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[17/01/2016 - 13:03:25][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[17/01/2016 - 13:03:25][ClienteInterface - Metodo btnEnviar][Ze]isConnected : true
+[17/01/2016 - 13:03:25][ClienteInterface - Metodo criptografar] Texto : E nois
+[17/01/2016 - 13:03:25][ClienteInterface - Metodo criptografar[DES]][Ze]Texto Claro : E nois
+[17/01/2016 - 13:03:25][ClienteInterface - Metodo criptografar[DES]] ChavesDES : null
+[17/01/2016 - 13:01:18][Exception]encriptar : No installed provider supports this key: (null)
+[17/01/2016 - 13:03:25][ClienteInterface - Metodo criptografar[DES]] aux : null
+[17/01/2016 - 13:03:30][ClienteInterface - Metodo formWindowClosed]INICIO
+[17/01/2016 - 13:03:32][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[17/01/2016 - 13:03:32][ClienteInterface - Metodo Disconnected[DES]][Ze]Texto : null
+[17/01/2016 - 13:03:32][ClienteInterface - Metodo Disconnected[DES]][Ze]***FIM***
+[17/01/2016 - 13:03:32][ClienteInterface - Metodo formWindowClosed][Desconectando]FIM disconnected

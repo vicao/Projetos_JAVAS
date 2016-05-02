@@ -1,0 +1,22 @@
+[09/01/2016 - 18:19:48][ClienteInterface - Metodo Connected]***Inicio****
+[09/01/2016 - 18:19:48][ClienteInterface - Metodo Connected][Mane]Chave DES gerada : javax.crypto.spec.SecretKeySpec@fffe7ba7
+[09/01/2016 - 18:19:48][ClienteInterface - Metodo Connected][Mane]isIsGenaratedKey : false
+[09/01/2016 - 18:19:48][ClienteInterface - Metodo Connected][Mane][TpCrypt] 2
+[09/01/2016 - 18:19:48][ClienteInterface - Metodo Connected][Mane][TpCrypt] 2
+[09/01/2016 - 18:19:50][ClienteInterface - Metodo Connected][Mane]Você está conectado no chat!
+[09/01/2016 - 18:19:50][ClienteInterface - Metodo Connected]***FIM****
+[09/01/2016 - 18:19:50][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[09/01/2016 - 18:19:50][ClienteInterface - Metodo refreshOnlines]Usuario : Mane
+[09/01/2016 - 18:19:50][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ze, Mane]
+[09/01/2016 - 18:19:50][ClienteInterface - Metodo refreshOnlines]***FIM***
+[09/01/2016 - 18:20:14][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[09/01/2016 - 18:20:14][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[09/01/2016 - 18:20:14][ClienteInterface - Metodo btnEnviar][Mane]isConnected : true
+[09/01/2016 - 18:20:14][ClienteInterface - Metodo criptografar[DES]][Mane]Texto Claro : oi
+[09/01/2016 - 18:18:37][Exception]encriptar : No installed provider supports this key: (null)
+[09/01/2016 - 18:21:17][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Ze]Valor : 2
+[09/01/2016 - 18:21:27][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[09/01/2016 - 18:21:27][ClienteInterface - Metodo Disconnected[DES]][Mane]Texto : null
+[09/01/2016 - 18:21:27][ClienteInterface - Metodo Disconnected[DES]][Mane]***FIM***
+[09/01/2016 - 18:21:28][ClienteInterface - Metodo formWindowClosed]INICIO
+[09/01/2016 - 18:21:28][ClienteInterface - Metodo formWindowClosed]FIM ELSE

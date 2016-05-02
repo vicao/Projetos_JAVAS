@@ -1,0 +1,30 @@
+[17/01/2016 - 13:15:30][ClienteInterface - Metodo Connected]***Inicio****
+[17/01/2016 - 13:15:30][ClienteInterface - Metodo Connected][Ratos]Chave DES gerada : javax.crypto.spec.SecretKeySpec@fffe7b4a
+[17/01/2016 - 13:15:30][ClienteInterface - Metodo Connected][Ratos]isIsGenaratedKey : true
+[17/01/2016 - 13:15:30][ClienteInterface - Metodo Connected][Ratos][TpCrypt] 2
+[17/01/2016 - 13:15:30][ClienteInterface - Metodo Connected][Ratos][TpCrypt] 2
+[17/01/2016 - 13:15:30][ClienteInterface - Metodo Connected][Chave DES] : null
+[17/01/2016 - 13:15:31][ClienteInterface - Metodo Connected][Ratos]Você está conectado no chat!
+[17/01/2016 - 13:15:31][ClienteInterface - Metodo Connected]***FIM****
+[17/01/2016 - 13:15:31][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:15:31][ClienteInterface - Metodo refreshOnlines]Usuario : Ratos
+[17/01/2016 - 13:15:31][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ratos]
+[17/01/2016 - 13:15:31][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:15:53][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:15:53][ClienteInterface - Metodo refreshOnlines]Usuario : Ratos
+[17/01/2016 - 13:15:53][ClienteInterface - Metodo refreshOnlines]Usuarios : [Ratos, Mane]
+[17/01/2016 - 13:15:53][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:16:34][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Mane]Valor : 2
+[17/01/2016 - 13:17:58][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[17/01/2016 - 13:17:58][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[17/01/2016 - 13:17:58][ClienteInterface - Metodo btnEnviar][Ratos]isConnected : true
+[17/01/2016 - 13:17:58][ClienteInterface - Metodo criptografar] Texto : mm
+[17/01/2016 - 13:17:58][ClienteInterface - Metodo criptografar[DES]][Ratos]Texto Claro : mm
+[17/01/2016 - 13:17:58][ClienteInterface - Metodo criptografar[DES]] ChavesDES : null
+[17/01/2016 - 13:15:17][Exception]encriptar : No installed provider supports this key: (null)
+[17/01/2016 - 13:17:58][ClienteInterface - Metodo criptografar[DES]] aux : null
+[17/01/2016 - 13:18:36][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[17/01/2016 - 13:18:36][ClienteInterface - Metodo Disconnected[DES]][Ratos]Texto : null
+[17/01/2016 - 13:18:36][ClienteInterface - Metodo Disconnected[DES]][Ratos]***FIM***
+[17/01/2016 - 13:18:38][ClienteInterface - Metodo formWindowClosed]INICIO
+[17/01/2016 - 13:18:38][ClienteInterface - Metodo formWindowClosed]FIM ELSE

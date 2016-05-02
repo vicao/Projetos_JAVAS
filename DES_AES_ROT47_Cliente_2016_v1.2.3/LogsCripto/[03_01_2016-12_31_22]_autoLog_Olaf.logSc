@@ -1,0 +1,59 @@
+[03/01/2016 - 12:31:52][ClienteInterface - Metodo Connected]***Inicio****
+[03/01/2016 - 12:31:52][ClienteInterface - Metodo Connected][Olaf][TpCrypt] 1
+[03/01/2016 - 12:31:52][ClienteInterface - Metodo Connected][Olaf][TpCrypt] 1
+[03/01/2016 - 12:31:54][ClienteInterface - Metodo Connected][Olaf]Você está conectado no chat!
+[03/01/2016 - 12:31:54][ClienteInterface - Metodo Connected]***FIM****
+[03/01/2016 - 12:31:54][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 12:31:54][ClienteInterface - Metodo refreshOnlines]Usuario : Olaf
+[03/01/2016 - 12:31:54][ClienteInterface - Metodo refreshOnlines]Usuarios : [Olai, Olaf]
+[03/01/2016 - 12:31:54][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 1
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 1
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo btnEnviar][Olaf]isConnected : true
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Texto Claro : teste
+[03/01/2016 - 12:31:22][ROT47]Mensagem Cifrada : E6DE6
+[03/01/2016 - 12:31:22][ROT47]Mensagem Cifrada : E6DE6
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo criptografar[ROT47]]Texto Criptografado : E6DE6
+[03/01/2016 - 12:31:22][ROT47]Mensagem Decifrada : teste
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Texto Descriptografado : teste
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Teste : E6DE6
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo btnEnviar[ROT47]][Olaf]textOld : teste
+[03/01/2016 - 12:32:03][ClienteInterface - Metodo btnEnviar[ROT47]][Olaf]txtMSG : E6DE6
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo ListenerSocket{TpCrypt}][Olai]Valor : 1
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo ListenerSocket[ROT47]][Olai]Mensagem : @:
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo receive]****INICIO***
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo receive][Olaf][TpCrypt] 1
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo receive[Rot47]][Olai]txtcripto : @:
+[03/01/2016 - 12:31:22][ROT47]Mensagem Decifrada : oi
+[03/01/2016 - 12:32:07][ClienteInterface - Metodo receive]****FIM***
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 1
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 1
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo btnEnviar][Olaf]isConnected : true
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Texto Claro : mane
+[03/01/2016 - 12:31:22][ROT47]Mensagem Cifrada : >2?6
+[03/01/2016 - 12:31:22][ROT47]Mensagem Cifrada : >2?6
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo criptografar[ROT47]]Texto Criptografado : >2?6
+[03/01/2016 - 12:31:22][ROT47]Mensagem Decifrada : mane
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Texto Descriptografado : mane
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Teste : >2?6
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo btnEnviar[ROT47]][Olaf]textOld : mane
+[03/01/2016 - 12:32:10][ClienteInterface - Metodo btnEnviar[ROT47]][Olaf]txtMSG : >2?6
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 1
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 1
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo btnEnviar][Olaf]isConnected : true
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Texto Claro : tchau
+[03/01/2016 - 12:31:22][ROT47]Mensagem Cifrada : E492F
+[03/01/2016 - 12:31:22][ROT47]Mensagem Cifrada : E492F
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo criptografar[ROT47]]Texto Criptografado : E492F
+[03/01/2016 - 12:31:22][ROT47]Mensagem Decifrada : tchau
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Texto Descriptografado : tchau
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo criptografar[ROT47]][Olaf]Teste : E492F
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo btnEnviar[ROT47]][Olaf]textOld : tchau
+[03/01/2016 - 12:32:15][ClienteInterface - Metodo btnEnviar[ROT47]][Olaf]txtMSG : E492F
+[03/01/2016 - 12:32:19][ClienteInterface - Metodo Disconnected[ROT47]]***Inicio****
+[03/01/2016 - 12:32:19][ClienteInterface - Metodo Disconnected[ROT47]][Olaf]Texto : E492F
+[03/01/2016 - 12:31:22][ROT47]Mensagem Decifrada : tchau
+[03/01/2016 - 12:32:19][ClienteInterface - Metodo Disconnected[ROT47]][Olaf]Texto Descriptografado : tchau
+[03/01/2016 - 12:32:19][ClienteInterface - Metodo Disconnected[ROT47]][Olaf]***FIM***
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo formWindowClosed]INICIO
+[03/01/2016 - 12:32:22][ClienteInterface - Metodo formWindowClosed]FIM ELSE

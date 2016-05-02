@@ -1,0 +1,46 @@
+[06/04/2016 - 17:02:00][ClienteInterface - Metodo Connected]***Inicio****
+[06/04/2016 - 17:02:00][ClienteInterface - Metodo Connected][Kratos]Chave DES gerada : javax.crypto.spec.SecretKeySpec@fffe7fff
+[06/04/2016 - 17:02:00][ClienteInterface - Metodo Connected][Kratos]isIsGenaratedKey : false
+[06/04/2016 - 17:02:00][ClienteInterface - Metodo Connected][Kratos][TpCrypt] 2
+[06/04/2016 - 17:02:00][ClienteInterface - Metodo Connected][Kratos][TpCrypt] 2
+[06/04/2016 - 17:02:00][ClienteInterface - Metodo Connected][Chave DES] : javax.crypto.spec.SecretKeySpec@fffe7fff
+[06/04/2016 - 17:02:01][ClienteInterface - Metodo Connected][Kratos]Você está conectado no chat!
+[06/04/2016 - 17:02:01][ClienteInterface - Metodo Connected]***FIM****
+[06/04/2016 - 17:02:01][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[06/04/2016 - 17:02:01][ClienteInterface - Metodo refreshOnlines]Usuario : Kratos
+[06/04/2016 - 17:02:01][ClienteInterface - Metodo refreshOnlines]Usuarios : [Kratos, Ze]
+[06/04/2016 - 17:02:01][ClienteInterface - Metodo refreshOnlines]***FIM***
+[06/04/2016 - 17:02:11][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[06/04/2016 - 17:02:11][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[06/04/2016 - 17:02:11][ClienteInterface - Metodo btnEnviar][Kratos]isConnected : true
+[06/04/2016 - 17:02:11][ClienteInterface - Metodo criptografar] Texto : teste
+[06/04/2016 - 17:02:11][ClienteInterface - Metodo criptografar[DES]][Kratos]Texto Claro : teste
+[06/04/2016 - 17:02:11][ClienteInterface - Metodo criptografar[DES]][Kratos]ChavesDES : javax.crypto.spec.SecretKeySpec@fffe7fff
+Texto Claro : teste
+Texto Encriptado : [B@1c8101a
+[06/04/2016 - 17:02:11][ClienteInterface - Metodo criptografar[DES]] aux : [B@1c8101a
+|*******************************************|
+[06/04/2016 - 17:02:11][[btnEnviarActionPerformed]]ChaveDES : javax.crypto.spec.SecretKeySpec@fffe7fff
+[06/04/2016 - 17:02:11][[btnEnviarActionPerformed]][message]ChaveDES : null
+[06/04/2016 - 17:02:11][[btnEnviarActionPerformed]]TextoClaro : teste
+[06/04/2016 - 17:02:11][[btnEnviarActionPerformed]]Textocriptofrado : [B@1c8101a
+[06/04/2016 - 17:02:11][[btnEnviarActionPerformed]]TextoDescriptografado : teste
+|*******************************************|
+[06/04/2016 - 17:02:18][ClienteInterface - Metodo receive]****INICIO***
+[06/04/2016 - 17:02:18][ClienteInterface - Metodo receive][Kratos][TpCrypt] 2
+[06/04/2016 - 17:02:18][ClienteInterface - Metodo receive[DES]]Resultado : ola
+[06/04/2016 - 17:02:18][ClienteInterface - Metodo receive[DES]]Resultado[toString] : ola
+[06/04/2016 - 17:02:18][ClienteInterface - Metodo receive]****FIM***
+[06/04/2016 - 17:02:25][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[06/04/2016 - 17:02:25][ClienteInterface - Metodo Disconnected[DES]][Kratos]Texto : [B@1c8101a
+[06/04/2016 - 17:02:25][ClienteInterface - Metodo Disconnected[DES]][Kratos]***FIM***
+[06/04/2016 - 17:02:28][ClienteInterface - Metodo receive]****INICIO***
+[06/04/2016 - 17:02:28][ClienteInterface - Metodo receive][Kratos][TpCrypt] 0
+[06/04/2016 - 17:02:28][ClienteInterface - Metodo receive[noCrypt]][Ze] até logo!
+[06/04/2016 - 17:02:28][ClienteInterface - Metodo receive]****FIM***
+[06/04/2016 - 17:02:28][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[06/04/2016 - 17:02:28][ClienteInterface - Metodo refreshOnlines]Usuario : Kratos
+[06/04/2016 - 17:02:28][ClienteInterface - Metodo refreshOnlines]Usuarios : [Kratos]
+[06/04/2016 - 17:02:28][ClienteInterface - Metodo refreshOnlines]***FIM***
+[06/04/2016 - 17:02:31][ClienteInterface - Metodo formWindowClosed]INICIO
+[06/04/2016 - 17:02:31][ClienteInterface - Metodo formWindowClosed]FIM ELSE

@@ -1,0 +1,39 @@
+[17/01/2016 - 13:27:17][ClienteInterface - Metodo Connected]***Inicio****
+[17/01/2016 - 13:27:17][ClienteInterface - Metodo Connected][lbao]Chave DES gerada : javax.crypto.spec.SecretKeySpec@1849a
+[17/01/2016 - 13:27:17][ClienteInterface - Metodo Connected][lbao]isIsGenaratedKey : true
+[17/01/2016 - 13:27:17][ClienteInterface - Metodo Connected][lbao][TpCrypt] 2
+[17/01/2016 - 13:27:17][ClienteInterface - Metodo Connected][lbao][TpCrypt] 2
+[17/01/2016 - 13:27:17][ClienteInterface - Metodo Connected][Chave DES] : null
+[17/01/2016 - 13:27:18][ClienteInterface - Metodo Connected][lbao]Você está conectado no chat!
+[17/01/2016 - 13:27:18][ClienteInterface - Metodo Connected]***FIM****
+[17/01/2016 - 13:27:18][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:27:18][ClienteInterface - Metodo refreshOnlines]Usuario : lbao
+[17/01/2016 - 13:27:18][ClienteInterface - Metodo refreshOnlines]Usuarios : [lbao]
+[17/01/2016 - 13:27:18][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:27:34][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[17/01/2016 - 13:27:34][ClienteInterface - Metodo refreshOnlines]Usuario : lbao
+[17/01/2016 - 13:27:34][ClienteInterface - Metodo refreshOnlines]Usuarios : [mamais, lbao]
+[17/01/2016 - 13:27:34][ClienteInterface - Metodo refreshOnlines]***FIM***
+[17/01/2016 - 13:27:49][ClienteInterface - Metodo btnEnviar[TpCrypt]]tpCrypt : 2
+[17/01/2016 - 13:27:49][ClienteInterface - Metodo btnEnviar[TpCrypt]]this.tpCrypt : 2
+[17/01/2016 - 13:27:49][ClienteInterface - Metodo btnEnviar][lbao]isConnected : true
+[17/01/2016 - 13:27:49][ClienteInterface - Metodo criptografar] Texto : oi
+[17/01/2016 - 13:27:49][ClienteInterface - Metodo criptografar[DES]][lbao]Texto Claro : oi
+[17/01/2016 - 13:27:49][ClienteInterface - Metodo criptografar[DES]] ChavesDES : null
+[17/01/2016 - 13:27:05][Exception]encriptar : No installed provider supports this key: (null)
+[17/01/2016 - 13:27:49][ClienteInterface - Metodo criptografar[DES]] aux : null
+ChaveDES : null
+[message]ChaveDES : null
+[17/01/2016 - 13:27:57][ClienteInterface - Metodo ListenerSocket{TpCrypt}][mamais]Valor : 2
+:::  :::
+[17/01/2016 - 13:27:57][ClienteInterface - Metodo receive]****INICIO***
+[17/01/2016 - 13:27:57][ClienteInterface - Metodo receive][lbao][TpCrypt] 2
+[17/01/2016 - 13:27:05][Exception]descriptar : No installed provider supports this key: (null)
+[17/01/2016 - 13:27:57][ClienteInterface - Metodo receive[DES]]Resultado : 
+[17/01/2016 - 13:27:57][ClienteInterface - Metodo receive[DES]]Resultado[toString] : 
+[17/01/2016 - 13:27:57][ClienteInterface - Metodo receive]****FIM***
+[17/01/2016 - 13:29:18][ClienteInterface - Metodo Disconnected[DES]]***Inicio****
+[17/01/2016 - 13:29:18][ClienteInterface - Metodo Disconnected[DES]][lbao]Texto : null
+[17/01/2016 - 13:29:18][ClienteInterface - Metodo Disconnected[DES]][lbao]***FIM***
+[17/01/2016 - 13:29:20][ClienteInterface - Metodo formWindowClosed]INICIO
+[17/01/2016 - 13:29:20][ClienteInterface - Metodo formWindowClosed]FIM ELSE

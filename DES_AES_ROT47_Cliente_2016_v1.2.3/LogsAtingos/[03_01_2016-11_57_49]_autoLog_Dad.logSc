@@ -1,0 +1,20 @@
+[03/01/2016 - 11:58:10][ClienteInterface - Metodo Connected]***Inicio****
+[03/01/2016 - 11:58:10][ClienteInterface - Metodo Connected][Dad][TpCrypt] 1
+[03/01/2016 - 11:58:10][ClienteInterface - Metodo Connected][Dad][TpCrypt] 1
+[03/01/2016 - 11:58:11][ClienteInterface - Metodo Connected][Dad]Você está conectado no chat!
+[03/01/2016 - 11:58:11][ClienteInterface - Metodo Connected]***FIM****
+[03/01/2016 - 11:58:11][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 11:58:11][ClienteInterface - Metodo refreshOnlines]Usuario : Dad
+[03/01/2016 - 11:58:11][ClienteInterface - Metodo refreshOnlines]Usuarios : [Dad]
+[03/01/2016 - 11:58:11][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 11:58:21][ClienteInterface - Metodo refreshOnlines]***INICIO***
+[03/01/2016 - 11:58:21][ClienteInterface - Metodo refreshOnlines]Usuario : Dad
+[03/01/2016 - 11:58:21][ClienteInterface - Metodo refreshOnlines]Usuarios : [Dad, Fads]
+[03/01/2016 - 11:58:21][ClienteInterface - Metodo refreshOnlines]***FIM***
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo Disconnected[ROT47]]***Inicio****
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo Disconnected[ROT47]][Dad]Texto : YES
+[03/01/2016 - 11:57:48][ROT47]Mensagem Decifrada : *t$
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo Disconnected[ROT47]][Dad]Texto Descriptografado : *t$
+[03/01/2016 - 11:58:39][ClienteInterface - Metodo Disconnected[ROT47]][Dad]***FIM***
+[03/01/2016 - 11:58:41][ClienteInterface - Metodo formWindowClosed]INICIO
+[03/01/2016 - 11:58:41][ClienteInterface - Metodo formWindowClosed]FIM ELSE
